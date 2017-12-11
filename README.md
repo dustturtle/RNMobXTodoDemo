@@ -1,0 +1,2 @@
+# RNMobXTodoDemo
+用来演示mobx在ReactNative中的使用
